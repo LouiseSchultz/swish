@@ -3,10 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+main{
+    width: 100vw;
+}
 .cards{
   display: flex;
   flex-wrap: wrap;
-  margin-top: 20vh;
+  margin: 22vh auto;
+  max-width: 88rem; 
 }
 .card{
     display: flex;
