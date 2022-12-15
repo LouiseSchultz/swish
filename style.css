@@ -12,22 +12,19 @@
     font-size: 1.3rem;
     font-family: 'Courier New', Courier, monospace;
 }
-.logo img
-{
-width: 7vw;
-height: 7vh;
+.logo img {
+    width: 7vw;
+    height: 7vh;
 
 }
 .logo {
-padding-top: 40px;
+    padding-top: 40px;
 
 }
 
 .cost {
-display: flex;
-padding-top: 40px;
-
-
+    display: flex;
+    padding-top: 40px;
 }
 
 .cost div {
@@ -39,11 +36,6 @@ padding-top: 40px;
     justify-content: center;
     align-items: center;
     text-align: center;
-}
-.order div {
-
-    /* padding-right: 3rem; */
-    
 }
 
 .number {
