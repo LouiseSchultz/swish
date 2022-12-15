@@ -1,6 +1,5 @@
 ## Sushi Shop
 
-**[Test this app yourself](github.io)**
 
 ---
 
@@ -11,9 +10,6 @@
 
 Sushi Online Shop with Leotrim & Fatih
 
-### How to use this Project
-
-lorem ........
 
 ##### Developed With
 
@@ -34,5 +30,4 @@ lorem ........
 ### Used Tools
 
 - [Canva](https://www.canva.com/)
-- [npm](https://www.npmjs.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
