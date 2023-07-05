@@ -1,4 +1,4 @@
-## Sushi Shop
+## Sushi Shop - School Project 
 
 
 ---
