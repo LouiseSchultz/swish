@@ -3,8 +3,6 @@
 
 ---
 
-![Screenshot from Project](./img/sushiproject.png)
-
 
 ### About Project
 
